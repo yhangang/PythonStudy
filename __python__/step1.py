@@ -708,14 +708,7 @@ text = json.loads(jsonData)
 print text
 
 
-
-
-
-
-
-
-
 # 获取当前毫秒时间戳，用于计算程序运行时间
-# print int(round(time.time() * 1000)) 
-# sleep(0.5)
-# print int(round(time.time() * 1000)) 
+print int(round(time.time() * 1000)) 
+sleep(0.5)
+print int(round(time.time() * 1000)) 
