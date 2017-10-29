@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-  
 import tushare as ts
-
+'''
+api详见官网http://tushare.org/index.html
+'''
 print ts.__version__
 
 '''

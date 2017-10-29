@@ -1,4 +1,5 @@
 # encoding:utf-8
+#pip install redis进行安装
 import redis
 '''
 python连接redis示例
